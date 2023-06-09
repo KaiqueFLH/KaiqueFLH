@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/KaiqueFLH">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFLH&show_icons=true&color=5ADBFF&hide_border=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFLH&layout=donut&color=337CA0&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFLH&show_icons=true&theme=dark&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFLH&layout=donut&theme=dark&hide_border=true"/>
 </div>
   
   
