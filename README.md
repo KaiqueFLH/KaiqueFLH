@@ -40,9 +40,8 @@
   <p><img src="https://profile-counter.glitch.me/KaiqueFLH/count.svg"/></p>
 </div>
   
-<div align="center">
   ![snake gif](https://github.com/KaiqueFLH/KaiqueFLH/blob/output/github-contribution-grid-snake.svg)
-</div>
+
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B3A&height=130&section=footer"/>
