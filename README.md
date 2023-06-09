@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B3A&height=130&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ADBFF&height=130&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+My+Name+is+Kaique+Fernandes.;I'm+17+years+old;And+I'm+a+Front-End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+My+Name+is+Kaique+Fernandes.;I'm+17+years+old;And+I'm+a+Front-End+Developer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <br>
 <br>
@@ -14,8 +14,8 @@
 
 <div align="center">
   <a href="https://github.com/KaiqueFLH">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFLH&show_icons=true&theme=dark#gh-dark-mode-only"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFLH&layout=donut&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFLH&show_icons=true&color=5ADBFF&hide_border=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFLH&layout=donut&color=337CA0&hide_border=true"/>
 </div>
   
   
@@ -44,4 +44,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B3A&height=130&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=5ADBFF&height=130&section=footer"/>
