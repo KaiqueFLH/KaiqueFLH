@@ -27,10 +27,9 @@
   <a href="https://instagram.com/limaaxz__" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:kaiquef.homem@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <p><img src="https://profile-counter.glitch.me/KaiqueFLH/count.svg"/></p>
   
 </div>
-  
-  <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/KaiqueFLH/count.svg"/></p>
 
 ![snake gif](https://github.com/KaiqueFLH/KaiqueFLH/blob/output/github-contribution-grid-snake.svg)
 
