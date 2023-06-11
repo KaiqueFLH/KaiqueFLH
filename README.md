@@ -2,12 +2,16 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO+WORLD!+My+Name+is+Kaique+Fernandes.;I'm+17+years+old;And+I'm+a+Front-End+Developer.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
+##
+
 <br>
 <br>
 <div align="center">
-- 🔭 Currently Working at WEG S.A<br>
+- 🔭 Industrial learning of Information Systems Programmer (MI 72 2023)<br>
+- 💼 Currently Working at WEG S.A<br>
 - 🌱 Learning about Java/Typescript<br>
 - ⚡ Favorite language: Javascript<br>
+- 🥇 "Focus on yourself."
 </div>
 <br>
 
@@ -25,6 +29,7 @@
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-CSS" height="" width="" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div>
 
   
