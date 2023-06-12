@@ -47,6 +47,6 @@
   
   ![snake gif](https://github.com/KaiqueFLH/KaiqueFLH/blob/output/github-contribution-grid-snake.svg)
 
-
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1B1B3A&height=130&section=footer"/>
+
+
