@@ -20,7 +20,6 @@
   <a href="https://github.com/KaiqueFLH">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=KaiqueFLH&show_icons=true&theme=transparent"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueFLH&layout=donut&theme=transparent"/>
-  <img height="200em" src="https://github-readme-streak-stats.herokuapp.com?user=KaiqueFLH&theme=highcontrast&hide_border=true&date_format=j%2Fn%5B%2FY%5D">
 </div>
     
 ## 💻 TECH SKILLS
