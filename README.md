@@ -46,8 +46,6 @@
   <p>Contador de Visitantes</p>
   <p><img src="https://profile-counter.glitch.me/KaiqueFLH/count.svg"/></p>
 </div>
-  
-  ![snake gif](https://github.com/KaiqueFLH/KaiqueFLH/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44A7E4&height=130&section=footer"/>
 
