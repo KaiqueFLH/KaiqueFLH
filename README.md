@@ -48,6 +48,4 @@
   <p><img src="https://profile-counter.glitch.me/KaiqueFLH/count.svg"/></p>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=44A7E4&height=130&section=footer"/>
-
 
