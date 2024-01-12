@@ -10,7 +10,7 @@
 - 🔭 Industrial learning of Information Systems Programmer (MI 72 2023)<br>
 - 💼 Currently Working at WEG S.A<br>
 - 🌱 Learning about Java/Typescript<br>
-- ⚡ Favorite language: Javascript<br>
+- ⚡ Favorite language: Java<br>
 </div>
 
 <br>
